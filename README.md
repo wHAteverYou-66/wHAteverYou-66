@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 3rd-year Computer Engineering student, tech enthusiast & innovator 🚀 <br/>
-🏆 Certified in C#, Python, GenAI with top internships 📜 <br/>
+💻 4th-year Computer Engineering student, tech enthusiast & innovator 🚀 <br/>
+🏆 Certified in C#, Python, GenAI with internships 📜 <br/>
 🎨 Content creator & storyteller on [Instagram](https://www.instagram.com/your_friend._.2004/) 🎥 <br/>
 🚀 Blending code & creativity to build impact ✨ <br/>
 
